@@ -50,3 +50,55 @@
 2018-11-04 09:49:15 HttpProcessor[8080][1] Stopping background thread
 2018-11-04 09:49:15 HttpProcessor[8080][0] Stopping background thread
 2018-11-04 09:49:15 HttpConnector[8080] Stopping background thread
+2018-11-04 09:49:18 HttpConnector Opening server socket on all host IP addresses
+2018-11-04 09:49:18 HttpConnector[8080] Starting background thread
+2018-11-04 09:49:18 HttpProcessor[8080][0] Starting background thread
+2018-11-04 09:49:18 HttpProcessor[8080][1] Starting background thread
+2018-11-04 09:49:18 HttpProcessor[8080][2] Starting background thread
+2018-11-04 09:49:18 HttpProcessor[8080][3] Starting background thread
+2018-11-04 09:49:18 HttpProcessor[8080][4] Starting background thread
+2018-11-04 09:50:15 HttpProcessor[8080][4] Stopping background thread
+2018-11-04 09:50:15 HttpProcessor[8080][3] Stopping background thread
+2018-11-04 09:50:15 HttpProcessor[8080][2] Stopping background thread
+2018-11-04 09:50:15 HttpProcessor[8080][1] Stopping background thread
+2018-11-04 09:50:15 HttpProcessor[8080][0] Stopping background thread
+2018-11-04 09:50:15 HttpConnector[8080] Stopping background thread
+2018-11-04 10:24:29 HttpConnector Opening server socket on all host IP addresses
+2018-11-04 10:24:29 HttpConnector[8080] Starting background thread
+2018-11-04 10:24:29 HttpProcessor[8080][0] Starting background thread
+2018-11-04 10:24:29 HttpProcessor[8080][1] Starting background thread
+2018-11-04 10:24:29 HttpProcessor[8080][2] Starting background thread
+2018-11-04 10:24:29 HttpProcessor[8080][3] Starting background thread
+2018-11-04 10:24:29 HttpProcessor[8080][4] Starting background thread
+2018-11-04 10:24:42 HttpProcessor[8080][4] Stopping background thread
+2018-11-04 10:24:42 HttpProcessor[8080][3] Stopping background thread
+2018-11-04 10:24:42 HttpProcessor[8080][2] Stopping background thread
+2018-11-04 10:24:42 HttpProcessor[8080][1] Stopping background thread
+2018-11-04 10:24:42 HttpProcessor[8080][0] Stopping background thread
+2018-11-04 10:24:42 HttpConnector[8080] Stopping background thread
+2018-11-04 10:25:47 HttpConnector Opening server socket on all host IP addresses
+2018-11-04 10:25:47 HttpConnector[8080] Starting background thread
+2018-11-04 10:25:47 HttpProcessor[8080][0] Starting background thread
+2018-11-04 10:25:47 HttpProcessor[8080][1] Starting background thread
+2018-11-04 10:25:47 HttpProcessor[8080][2] Starting background thread
+2018-11-04 10:25:47 HttpProcessor[8080][3] Starting background thread
+2018-11-04 10:25:47 HttpProcessor[8080][4] Starting background thread
+2018-11-04 10:25:50 HttpProcessor[8080][4] Stopping background thread
+2018-11-04 10:25:50 HttpProcessor[8080][3] Stopping background thread
+2018-11-04 10:25:50 HttpProcessor[8080][2] Stopping background thread
+2018-11-04 10:25:50 HttpProcessor[8080][1] Stopping background thread
+2018-11-04 10:25:50 HttpProcessor[8080][0] Stopping background thread
+2018-11-04 10:25:50 HttpConnector[8080] Stopping background thread
+2018-11-04 11:09:03 HttpConnector Opening server socket on all host IP addresses
+2018-11-04 11:09:03 HttpConnector[8080] Starting background thread
+2018-11-04 11:09:03 HttpProcessor[8080][0] Starting background thread
+2018-11-04 11:09:03 HttpProcessor[8080][1] Starting background thread
+2018-11-04 11:09:03 HttpProcessor[8080][2] Starting background thread
+2018-11-04 11:09:03 HttpProcessor[8080][3] Starting background thread
+2018-11-04 11:09:03 HttpProcessor[8080][4] Starting background thread
+2018-11-04 14:21:57 HttpProcessor[8080][4] Stopping background thread
+2018-11-04 14:21:57 HttpProcessor[8080][3] Stopping background thread
+2018-11-04 14:21:57 HttpProcessor[8080][2] Stopping background thread
+2018-11-04 14:21:57 HttpProcessor[8080][1] Stopping background thread
+2018-11-04 14:21:57 HttpProcessor[8080][0] Stopping background thread
+2018-11-04 14:21:57 HttpConnector[8080] Stopping background thread

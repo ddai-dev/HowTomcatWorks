@@ -1,0 +1,24 @@
+2018-11-18 11:02:50 HostConfig[localhost]: Deploying web application directory app1
+2018-11-18 11:02:50 StandardHost[localhost]: Installing web application at context path /app1 from URL file:/Users/daniel/github/HowTomcatWorks/webapps/app1
+2018-11-18 11:02:50 WebappLoader[/app1]: Deploying class repositories to work directory /Users/daniel/github/HowTomcatWorks/work/Standalone/localhost/app1
+2018-11-18 11:02:50 WebappLoader[/app1]: Deploy class files /WEB-INF/classes to /Users/daniel/github/HowTomcatWorks/webapps/app1/WEB-INF/classes
+2018-11-18 11:02:50 ContextConfig[/app1]: Missing default web.xml, using application web.xml only
+2018-11-18 11:02:50 StandardManager[/app1]: Seeding random number generator class java.security.SecureRandom
+2018-11-18 11:02:50 StandardManager[/app1]: Seeding of random number generator has been completed
+2018-11-18 11:02:53 StandardHost[localhost]: Removing web application at context path /app1
+2018-11-18 12:16:48 HostConfig[localhost]: Deploying web application directory app1
+2018-11-18 12:16:48 StandardHost[localhost]: Installing web application at context path /app1 from URL file:/Users/daniel/github/HowTomcatWorks/webapps/app1
+2018-11-18 12:16:49 WebappLoader[/app1]: Deploying class repositories to work directory /Users/daniel/github/HowTomcatWorks/work/Standalone/localhost/app1
+2018-11-18 12:16:49 WebappLoader[/app1]: Deploy class files /WEB-INF/classes to /Users/daniel/github/HowTomcatWorks/webapps/app1/WEB-INF/classes
+2018-11-18 12:16:49 ContextConfig[/app1]: Missing default web.xml, using application web.xml only
+2018-11-18 12:16:49 StandardManager[/app1]: Seeding random number generator class java.security.SecureRandom
+2018-11-18 12:16:49 StandardManager[/app1]: Seeding of random number generator has been completed
+2018-11-18 12:16:50 StandardHost[localhost]: Removing web application at context path /app1
+2018-11-18 12:38:58 HostConfig[localhost]: Deploying web application directory app1
+2018-11-18 12:38:58 StandardHost[localhost]: Installing web application at context path /app1 from URL file:/Users/daniel/github/HowTomcatWorks/webapps/app1
+2018-11-18 12:38:58 WebappLoader[/app1]: Deploying class repositories to work directory /Users/daniel/github/HowTomcatWorks/work/Standalone/localhost/app1
+2018-11-18 12:38:58 WebappLoader[/app1]: Deploy class files /WEB-INF/classes to /Users/daniel/github/HowTomcatWorks/webapps/app1/WEB-INF/classes
+2018-11-18 12:38:58 ContextConfig[/app1]: Missing default web.xml, using application web.xml only
+2018-11-18 12:38:58 StandardManager[/app1]: Seeding random number generator class java.security.SecureRandom
+2018-11-18 12:38:58 StandardManager[/app1]: Seeding of random number generator has been completed
+2018-11-18 12:39:13 StandardHost[localhost]: Removing web application at context path /app1
